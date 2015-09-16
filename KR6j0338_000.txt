@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛頂勝初瑜伽普賢菩薩念誦法
+#+DATE: 2015-08-30 20:30:28.742658
+#+PROPERTY: JUAN 0
